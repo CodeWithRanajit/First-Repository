@@ -1,7 +1,7 @@
 # First-Repository
 This is my First Repository.
 <br>
-Author Name - Ranajit Chattraj.
+Author Name - Ranajit Chattaraj.
 <br>
 Study at IEM.<br>
 Cource:-B.tech<br>
